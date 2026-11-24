@@ -69,8 +69,8 @@ Por seguridad, el repositorio no incluye una contraseña predeterminada.
 
 ## Autoras
 
-Valeria Madrid y Valentina Madrid.
+Valentina Isabella Madrid Vieira.
 
 ## Proyecto académico
 
-Proyecto final de Desarrollo Web.
+Proyecto final de Programació Web.
