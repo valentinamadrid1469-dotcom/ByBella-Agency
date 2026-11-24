@@ -1,0 +1,1 @@
+<?php require 'includes/bootstrap.php';if($_SERVER['REQUEST_METHOD']!=='POST'){http_response_code(405);exit('Método no permitido');}check_csrf();unset($_SESSION['admin']);session_regenerate_id(true);flash('info','Sesión cerrada.');redirect('login.php');
