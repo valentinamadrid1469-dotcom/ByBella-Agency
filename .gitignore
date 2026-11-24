@@ -4,3 +4,4 @@
 /data/*.sqlite-shm
 .DS_Store
 .vscode/
+!/data/bybella.sqlite
