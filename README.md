@@ -67,7 +67,7 @@ Para habilitarlo debe configurarse la variable de entorno `BYBELLA_ADMIN_PASSWOR
 
 Por seguridad, el repositorio no incluye una contraseña predeterminada.
 
-## Autoras
+## Autora
 
 Valentina Isabella Madrid Vieira.
 
